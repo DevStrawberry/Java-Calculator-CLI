@@ -13,6 +13,8 @@ It supports basic arithmetic operations and a few advanced ones, with input vali
 - Square Root (of the first number)
 - Percentage calculation
 
+---
+
 ## 💻 How It Works
 
 The program runs in a continuous loop, prompting the user to:
@@ -24,12 +26,16 @@ The program runs in a continuous loop, prompting the user to:
 
 Invalid numeric input is handled gracefully with proper prompts.
 
+---
+
 ## 🧠 Technologies Used
 
 - Java 17+ (compatible with earlier versions as well)
 - Standard input/output using `Scanner`
 - Basic control structures: loops, conditionals, switch-case
 - Functions for modularization
+
+---
 
 ## 🚀 Getting Started
 
@@ -57,6 +63,7 @@ Run the program:
 ```bash
 java Main
 ```
+---
 
 ## 📦 Structure
 ```text
