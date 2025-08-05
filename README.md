@@ -59,6 +59,7 @@ java Main
 ```
 
 ## 📦 Structure
+Java-Calculator-CLI/
 ├── Main.java
 └── README.md
 
