@@ -20,7 +20,7 @@ public class Main {
         }
 
         scanner.close();
-        System.out.println("Encerrando a calculadora. Até mais!");
+        System.out.println("Encerrando a calculadora.");
     }
 
     static double lerNumero(Scanner scanner, String mensagem) {
