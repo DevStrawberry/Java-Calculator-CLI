@@ -62,3 +62,8 @@ java Main
 ├── Main.java
 └── README.md
 
+## 📄 License
+This project is open-source and available under the MIT License.
+
+Feel free to fork this repository or suggest improvements!
+
