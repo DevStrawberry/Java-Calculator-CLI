@@ -44,3 +44,18 @@ Clone the repository:
 ```bash
 git clone https://github.com/DevStrawberry/Java-Calculator-CLI.git
 cd Java-Calculator-CLI
+
+Compile the program:
+
+```bash
+javac Main.java
+
+Run the program:
+
+```bash
+java Main
+
+## 📦 Structure
+├── Main.java
+└── README.md
+
