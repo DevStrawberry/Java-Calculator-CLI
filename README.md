@@ -50,11 +50,13 @@ Compile the program:
 
 ```bash
 javac Main.java
+```
 
 Run the program:
 
 ```bash
 java Main
+```
 
 ## 📦 Structure
 ├── Main.java
